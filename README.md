@@ -13,3 +13,4 @@ Adaptation of the game created in Platzi's CSS animation course.
   - Color change when hovering over.
   - Animation when checking a cat.
 - The selected characters disappear instead of remaining.
+- Mallet Cursor and Selector-Mallet Cursor when on a character.
