@@ -14,3 +14,4 @@ Adaptation of the game created in Platzi's CSS animation course.
   - Animation when checking a cat.
 - The selected characters disappear instead of remaining.
 - Mallet Cursor and Selector-Mallet Cursor when on a character.
+- There is a variable that modifies the speed of the cats globally.
